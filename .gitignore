@@ -1,0 +1,9 @@
+slprj/
+*_ert_rtw/
+*.slxc
+*.autosave
+*.asv
+*.mat
+*.elf
+*.hex
+*.eep
